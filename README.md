@@ -1,0 +1,1 @@
+Ovo je primer lose uradjenog projekta. Projekat se pokrece i izvrsava i sluzi svrsi, ali sam dizajn klasa i sama struktura projekta nije dobra jer su koriscene prijateljske klase. Ova greska je ispravljena u narednim projektima. U narednim projektima su ubacene i naprednije strukture podataka, napredniji koncepti u objektno orijentisanom programiranju u c++ programskom jeziku.
